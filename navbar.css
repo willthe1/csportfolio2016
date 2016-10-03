@@ -1,14 +1,18 @@
 #navrbar {
     text-align:center;
+    font-family: 'Indie Flower', sans-serif;
 }
 
 #navrbar li {
     display:inline-block;
-    border: 2px solid black;
-    padding: 10px;
-    
+    border: 1px solid white;
+    padding: 0px;
+    background-image: url('https://imgflip.com/s/meme/Troll-Face.jpg');
+    background-size: 128px;
 }
 
 #navrbar a {
-    color: green;
+    color: white;
+  
 }
+
